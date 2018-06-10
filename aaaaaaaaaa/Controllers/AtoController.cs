@@ -10,7 +10,7 @@ namespace aaaaaaaaaa.Controllers
     {
         // GET: Ato
         public ActionResult Index()
-        {
+        {//rwểwrewr/wrewrewrewrẻ//rewrwểw//rewrewrew
             return View();
         }
     }
