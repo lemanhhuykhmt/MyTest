@@ -15,7 +15,7 @@ namespace aaaaaaaaaa.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "lê mạnh huy";
+            ViewBag.Message = "lê mạnh huy432423432";
 
             return View();
         }
